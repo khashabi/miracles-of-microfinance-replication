@@ -22,7 +22,7 @@ reproducibility and faithful implementation rather than novel analysis.
 ## Data and Licensing
 All datasets are from **ICPSR Study 113599** and are included unmodified
 for replication and educational purposes only. Use of the data is governed
-by the ICPSR Data Use Agreement (see `data/raw/LICENSE.txt`).
+by the ICPSR Data Use Agreement (see `data/LICENSE.txt`).
 
 The original paper and associated materials are © 2015 American Economic
 Association. Python code in this repository was written for replication
